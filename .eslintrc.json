@@ -1,0 +1,16 @@
+{
+  "env": {
+    "amd": true,
+    "applescript": true,
+    "node": true
+  },
+  "extends": ["airbnb-base"],
+  "parserOptions": {
+    "ecmaFeatures": {},
+    "ecmaVersion": 12
+  },
+  "rules": {
+    "linebreak-style": "off",
+     "no-restricted-syntax":"off"
+  }
+}
